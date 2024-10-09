@@ -1,0 +1,143 @@
+@font-face {
+    font-family: grInter;
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src: url(extension-inter-thin.woff2) format("woff2"), url(extension-inter-thin.woff) format("woff")
+}
+
+@font-face {
+    font-family: grInter;
+    font-style: italic;
+    font-weight: 100;
+    font-display: swap;
+    src: url(extension-inter-thinitalic.woff2) format("woff2"), url(extension-inter-thinitalic.woff) format("woff")
+}
+
+@font-face {
+    font-family: grInter;
+    font-style: normal;
+    font-weight: 200;
+    font-display: swap;
+    src: url(extension-inter-extralight.woff2) format("woff2"), url(extension-inter-extralight.woff) format("woff")
+}
+
+@font-face {
+    font-family: grInter;
+    font-style: italic;
+    font-weight: 200;
+    font-display: swap;
+    src: url(extension-inter-extralightitalic.woff2) format("woff2"), url(extension-inter-extralightitalic.woff) format("woff")
+}
+
+@font-face {
+    font-family: grInter;
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(extension-inter-light.woff2) format("woff2"), url(extension-inter-light.woff) format("woff")
+}
+
+@font-face {
+    font-family: grInter;
+    font-style: italic;
+    font-weight: 300;
+    font-display: swap;
+    src: url(extension-inter-lightitalic.woff2) format("woff2"), url(extension-inter-lightitalic.woff) format("woff")
+}
+
+@font-face {
+    font-family: grInter;
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(extension-inter-regular.woff2) format("woff2"), url(extension-inter-regular.woff) format("woff")
+}
+
+@font-face {
+    font-family: grInter;
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url(extension-inter-italic.woff2) format("woff2"), url(extension-inter-italic.woff) format("woff")
+}
+
+@font-face {
+    font-family: grInter;
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(extension-inter-medium.woff2) format("woff2"), url(extension-inter-medium.woff) format("woff")
+}
+
+@font-face {
+    font-family: grInter;
+    font-style: italic;
+    font-weight: 500;
+    font-display: swap;
+    src: url(extension-inter-mediumitalic.woff2) format("woff2"), url(extension-inter-mediumitalic.woff) format("woff")
+}
+
+@font-face {
+    font-family: grInter;
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url(extension-inter-semibold.woff2) format("woff2"), url(extension-inter-semibold.woff) format("woff")
+}
+
+@font-face {
+    font-family: grInter;
+    font-style: italic;
+    font-weight: 600;
+    font-display: swap;
+    src: url(extension-inter-semibolditalic.woff2) format("woff2"), url(extension-inter-semibolditalic.woff) format("woff")
+}
+
+@font-face {
+    font-family: grInter;
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(extension-inter-bold.woff2) format("woff2"), url(extension-inter-bold.woff) format("woff")
+}
+
+@font-face {
+    font-family: grInter;
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: url(extension-inter-bolditalic.woff2) format("woff2"), url(extension-inter-bolditalic.woff) format("woff")
+}
+
+@font-face {
+    font-family: grInter;
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: url(extension-inter-extrabold.woff2) format("woff2"), url(extension-inter-extrabold.woff) format("woff")
+}
+
+@font-face {
+    font-family: grInter;
+    font-style: italic;
+    font-weight: 800;
+    font-display: swap;
+    src: url(extension-inter-extrabolditalic.woff2) format("woff2"), url(extension-inter-extrabolditalic.woff) format("woff")
+}
+
+@font-face {
+    font-family: grInter;
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url(extension-inter-black.woff2) format("woff2"), url(extension-inter-black.woff) format("woff")
+}
+
+@font-face {
+    font-family: grInter;
+    font-style: italic;
+    font-weight: 900;
+    font-display: swap;
+    src: url(extension-inter-blackitalic.woff2) format("woff2"), url(extension-inter-blackitalic.woff) format("woff")
+}
